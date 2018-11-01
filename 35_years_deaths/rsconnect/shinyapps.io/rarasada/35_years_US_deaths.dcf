@@ -1,0 +1,12 @@
+name: 35_years_US_deaths
+title: 35_years_US_deaths
+username:
+account: rarasada
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 546145
+bundleId: 1675678
+url: https://rarasada.shinyapps.io/35_years_US_deaths/
+when: 1541035004.03134
+asMultiple: FALSE
+asStatic: FALSE
